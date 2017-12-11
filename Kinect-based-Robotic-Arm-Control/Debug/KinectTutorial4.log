@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\t_jorsz\downloads\skeletaltracking_2\4_skeletaltracking\main.cpp(27): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\t_jorsz\downloads\skeletaltracking_2\4_skeletaltracking\main.cpp(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\t_jorsz\downloads\skeletaltracking_2\4_skeletaltracking\main.cpp(29): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\t_jorsz\downloads\skeletaltracking_2\4_skeletaltracking\main.cpp(418): warning C4244: 'initializing': conversion from 'double' to 'unsigned short', possible loss of data
+c:\users\t_jorsz\downloads\skeletaltracking_2\4_skeletaltracking\main.cpp(436): warning C4305: '=': truncation from 'double' to 'FLOAT'
+c:\users\t_jorsz\downloads\skeletaltracking_2\4_skeletaltracking\main.cpp(437): warning C4305: '=': truncation from 'double' to 'FLOAT'
+c:\users\t_jorsz\downloads\skeletaltracking_2\4_skeletaltracking\main.cpp(438): warning C4305: '=': truncation from 'double' to 'FLOAT'
+c:\users\t_jorsz\downloads\skeletaltracking_2\4_skeletaltracking\main.cpp(509): warning C4101: 'position': unreferenced local variable
+c:\users\t_jorsz\downloads\skeletaltracking_2\4_skeletaltracking\main.cpp(509): warning C4101: 'target': unreferenced local variable
+c:\users\t_jorsz\downloads\skeletaltracking_2\4_skeletaltracking\main.cpp(508): warning C4101: 'success': unreferenced local variable
+  KinectTutorial4.vcxproj -> C:\Users\t_jorsz\Downloads\SkeletalTracking_2\4_SkeletalTracking\Debug\KinectTutorial4.exe
+  KinectTutorial4.vcxproj -> C:\Users\t_jorsz\Downloads\SkeletalTracking_2\4_SkeletalTracking\Debug\KinectTutorial4.pdb (Partial PDB)
